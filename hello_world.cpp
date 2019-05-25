@@ -4,9 +4,9 @@
 int main() 
 { 
     cout << "Your name"; //Enter your name
-// create a string (container)
+// создаем строку(контейнер).
 string name;
-cin << name;//Enter your name
+cin << name;//Enter your name.
     cout << "Hello, world! from " << name << endl;
     return 0; 
 }
